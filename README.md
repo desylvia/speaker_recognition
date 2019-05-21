@@ -11,4 +11,4 @@ Below are the methods:
 6) Train and test 5 segments data alternately (k-fold cross validation method) using Gaussian Mixture Model and Vector Quantization.
 7) Evaluate and compare result.
 
-Gaussian Mixture Model yielded the best result based on data of 5 speakers.
+Gaussian Mixture Model yielded the best result based on data of 5 speakers in this research.
