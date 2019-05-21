@@ -1,4 +1,4 @@
-# speaker_recognition
+# Speaker Recognition
 
 My master thesis about text-independent speaker identification closed-set. 
 
